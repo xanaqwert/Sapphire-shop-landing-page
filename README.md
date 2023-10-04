@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="images-sapphire/adaptive-icon.png" alt="Logo" width="250px" height="240px">
+    <img src="images-sapphire/adaptive-icon.png" alt="Logo" width="300px" height="280px">
   </a>
 
   <h3 align="center">Cikini's best app</h3>
@@ -59,8 +59,6 @@ Key Features:
 ### Built With
 
 [![Javascript](https://skillicons.dev/icons?i=js)]()
-</br>
-[![Expo](https://skillicons.dev/icons?i=expo)]()
 </br>
 [![Javascript](https://skillicons.dev/icons?i=react)]()
 
