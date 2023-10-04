@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="images-sapphire/adaptive-icon.png" alt="Logo" width="200px" height="150px">
+    <img src="images-sapphire/adaptive-icon.png" alt="Logo" width="200px" height="200px">
   </a>
 
   <h3 align="center">Cikini's best app</h3>
