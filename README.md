@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="images-sapphire/sapphire-screenshot.png" alt="Logo" width="200px" height="100px">
+    <img src="images-sapphire/adaptive-icon" alt="Logo" width="200px" height="100px">
   </a>
 
   <h3 align="center">Cikini's best app</h3>
@@ -42,7 +42,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About Sapphire
 
-<img src="images-sapphire/adaptive-icon.png" alt="Screenshot">
+<img src="images-sapphire/sapphire-screenshot.png" alt="Screenshot">
 
 Sapphire Shop is a mobile ecommerce app built with React Native. Users can browse products, add them to a cart, and purchase them securely.
 
